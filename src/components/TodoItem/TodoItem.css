@@ -1,0 +1,13 @@
+.todo__item {
+  font-size: 24px;
+  line-height: 30px;
+  padding: 10px;
+  box-sizing: border-box;
+  word-break: break-all;
+  border-bottom: 1px solid gainsboro;
+}
+
+.todo__item--completed {
+  text-decoration: line-through;
+  color: grey;
+}
